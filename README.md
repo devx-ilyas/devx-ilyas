@@ -9,7 +9,7 @@ Hello i am a full stack web developer. i am ready to design fully responsive and
 * 🌍  I'm based in patna
 * 🖥️  See my portfolio at [Tricky worlds](http://trickyworlds.com)
 * Follow me at Instagram[DevX_ilyas](https://www.instagram.com/devx_ilyas/)
-* ✉️  You can contact me at [Iamilyashassan15@gmail.com](mailto:Iamilyashassan15@gmail.com)
+* ✉️  You can contact me at [devxilyas@gmail.com](mailto:devxilyas@gmail.com)
 * 🧠  I'm learning swift
 * 🤝  I'm open to collaborating on any project
 
