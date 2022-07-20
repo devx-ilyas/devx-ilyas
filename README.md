@@ -7,7 +7,7 @@ Web Developer
 Hello i am a full stack web developer. i am ready to design fully responsive and attractive multipage dynamic website for you.
 
 * 🌍  I'm based in patna
-* 🖥️  See my portfolio at [Tricky worlds](http://trickyworlds.com)
+* 🖥️  See my portfolio at [DEVXilyas](http://devxilyas.com)
 * Follow me at Instagram[DevX_ilyas](https://www.instagram.com/devx_ilyas/)
 * ✉️  You can contact me at [devxilyas@gmail.com](mailto:devxilyas@gmail.com)
 * 🧠  I'm learning swift
